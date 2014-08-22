@@ -7,8 +7,6 @@ organization := "$organization$"
 
 version := "$version$" 
 
-startYear := Some($year$) 
-
 /*
 scmInfo := Some(
   ScmInfo(
@@ -101,7 +99,7 @@ resolvers ++= Seq(
   // Resolver.typesafeRepo("releases")
   //"spray repo" at "http://repo.spray.io",
   //"brando" at "http://chrisdinn.github.io/releases/",
-  "typesafe" at "http://repo.typesafe.com/typesafe/releases/",
+  "typesafe" at "http://repo.typesafe.com/typesafe/releases/"
 )
 
 //atmosSettings
