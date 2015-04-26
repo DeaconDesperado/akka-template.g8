@@ -90,7 +90,6 @@ libraryDependencies ++= Seq (
   ,"org.json4s" %% "json4s-ext" % "3.2.7"
   // -- config --
   ,"com.typesafe" % "config" % "1.2.0"
-  ,"org.scaldi" %% "scaldi-akka" % "0.3.1"
 )
 
 /* you may need these repos */

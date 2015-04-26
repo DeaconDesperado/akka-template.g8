@@ -9,7 +9,6 @@ import scala.concurrent.duration._
 //import spray.http._
 //import spray.routing._
 //import spray.util._
-import scaldi._
 
 object $name;format="cap"$Bootable extends App {
 
